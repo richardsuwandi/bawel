@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Todo Notes</string>
+    <string name="please_add_todo_list">Add Todo List</string>
+    <string name="label_todo_list">Todo List</string>
+    <string name="todo_icon" translatable="false">task_icon</string>
+    <string name="delete_todo_button">hapus</string>
+    <string name="error_loading_data">Error</string>
+    <string name="title_todo">judul</string>
+    <string name="add_btn">Simpan</string>
+    <string name="btn_update">perbaharui</string>
+    <string name="label_addTodo">Add</string>
+    <string name="label_editTodo">Edit</string>
+    <string name="never_update">Never Updated</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="btn_edit">Edit</string>
+    <string name="add_to_do">Add Todo</string>
+    <string name="description">Deskripsi</string>
+    <string name="empty_image">Empty Image</string>
+    <string name="edit_to_do">Edit</string>
+    <string name="update">perbaharui</string>
+    <string name="due_date">Due</string>
+    <string name="dueDate">Due Date</string>
+    <string name="sort_by_created_date">Sort By Created Date</string>
+    <string name="sort_by_due_date">Sort By Due Date</string>
+    <string name="search_hint">cari</string>
+    <string name="created">Created</string>
+    <string name="created_date_view">Created Date</string>
+    <string name="notify_me">beri notifikasi sebelum 1 jam</string>
+</resources>
