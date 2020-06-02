@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ToDo List App
 
 
@@ -9,7 +9,7 @@
 * [MVVM Architecture](https://developer.android.com/jetpack/docs/guide)
 * [Navigation](https://developer.android.com/guide/navigation)
 * [Material Components](https://material.io/components)
-=======
+
 # Todo-Notes
 nama : nurhasana abunawas
 nim : D121181002
